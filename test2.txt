@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 1052-20D9
+
+ Directory of D:\Tool\Git\myfolder
+
+03/30/2024  02:45 PM    <DIR>          .
+03/30/2024  09:20 AM    <DIR>          ..
+03/30/2024  09:43 AM                 0 index.html
+03/30/2024  09:42 AM                 8 test1.txt
+03/30/2024  02:45 PM                 0 test2.txt
+               3 File(s)              8 bytes
+               2 Dir(s)  43,061,469,184 bytes free
